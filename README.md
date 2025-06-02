@@ -3,19 +3,19 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://github.com/boyezZzzz/BoyezzzzOkayy
+git clone https://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@github.com/S1teg4a/sitegaa
 ```
 ```
 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
 ```
 ```
-cd Ubotpremboy && screen -S Ubotpremboy
+cd sitegaa && screen -S sitegaa
 ```
 ```
 bash installnode.sh && apt install python3.10-venv
 ```
 ```
-python3 -m venv Ubotpremboy && source Ubotpremboy/bin/activate
+python3 -m venv sitegaa && source sitegaa/bin/activate
 ```
 ```
 pip3 install -r requirements.txt
